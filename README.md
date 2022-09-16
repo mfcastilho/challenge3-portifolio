@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Projeto desenvolvido para o terceiro Challenge do Bootcamp Alura e Oracle..</h1>
-<div align="center">
+
 
 
 
