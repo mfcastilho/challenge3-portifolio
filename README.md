@@ -31,11 +31,11 @@ Deve ser responsivo</li>
 <hr>
 <h2>Licenca</h2>
 <ul>
-<li><span>Esse projeto está sob a licença MIT. Veja o arquivo </span><a href="">LICENSE</a><span> para mais detalhes.</span></li>
+<li><span>Esse projeto está sob a licença MIT. Veja o arquivo </span><a href="https://github.com/mfcastilho/challenge3-portifolio/blob/master/LICENSE">LICENSE</a><span> para mais detalhes.</span></li>
 </ul>
 
 
 <h2>Informações adicionais</h2>
 
  <ul>
-  <li>Deploy do projeto:<a href=""> clique aqui</a></li></ul> 
+  <li>Deploy do projeto:<a href="https://mfcastilho.github.io/challenge3-portifolio/"> clique aqui</a></li></ul> 
