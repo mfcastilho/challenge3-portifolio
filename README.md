@@ -21,8 +21,7 @@
 <h4>A proposta do desafio foi a criação do nosso portifólio utilizando HTML, CSS e Javascript</h4>
 <h3>Requisitos</h3>
 <ul>
-<li
-Deve ser responsivo</li>
+<li>Deve ser responsivo</li>
 <li>Deve conter uma área para suas redes sociais</li>
 <li>Deve conter uma sessão para Hobbies, Skills, formação academica e seus projetos</li>
 <li>Deve conter um formulário para contato o mesmo deve ser validado</li>
